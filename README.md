@@ -5,11 +5,11 @@ I'm a Full Stack Web Developer specializing in MERN stack (MongoDB, Express.js, 
 ## 🧰 Skills
 
 - 📚 Languages: JavaScript, HTML/CSS
-- 🖥️ Front-End: React, Redux
+- 🖥️ Front-End: React, Redux , Material UI
 - ⚙️ Back-End: Node.js, Express.js
 - 🎲 Database: MongoDB
-- 🌐 Deployment & Hosting: Heroku, Netlify
-- 🧪 Testing: Jest, Mocha, Chai
+- 🌐 Deployment & Hosting: Heroku, Netlify,vercel and render
+- 🧪 Testing: Jest
 - 🛠️ Tools: Git, GitHub, VSCode
 
 ## 📫 How to reach me
