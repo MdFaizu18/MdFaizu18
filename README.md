@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer specializing in MERN stack (MongoDB, Express.js, 
 
 ## 🧰 Skills
 
-- 📚 Languages: JavaScript, HTML/CSS
+- 📚 Languages: JavaScript, HTML/CSS , Java ,C programming
 - 🖥️ Front-End: React, Redux , Material UI
 - ⚙️ Back-End: Node.js, Express.js
 - 🎲 Database: MongoDB
