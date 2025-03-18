@@ -19,6 +19,3 @@ You can reach me at:
 - LinkedIn:([https://linkedin.com](https://www.linkedin.com/in/mohammed-faizulla-34124a24a/))
 - Email: [My Email](mailto:mohammedfaizulla18@gmail.com)
 
-## 📚 Latest Blog Posts
-
-## 🎖️ My GitHub Stats
